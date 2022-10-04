@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiitan Oluwasere or @kiitanolu44
 - 👀 I’m interested in analytics/insights, software engineering (mainly back-end development) and programming.
-- Outside of my professional interests, I enjoy playing football and play regularly,
+- Outside of my professional interests, I enjoy playing football and play regularly
 - I take my health and well-being seriously and regularly go to the gym/complete 5k/10k runs. Unfortunately, I never learned how to swim!
 - 🌱 I’m currently learning Python and Power BI  but I am most confident with Microsoft Excel, SQL and Tableau at this moment in time.
 - 📫 How to reach me ... on Linkedin!
