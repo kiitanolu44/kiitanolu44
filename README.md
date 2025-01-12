@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Kiitan Oluwasere or @kiitanolu44 and I am currently a Data Engineer at CACI in London.
-- 👀 I’m interested in all things data, especially when it pertains to analytics/insights, data engineering or data science.
+- 👋 Hi, I’m Kiitan Oluwasere (@kiitanolu44), and I have 1.5 years of experience working as a Data Engineer. Currently, I’m exploring opportunities and expanding my expertise in software engineering, data engineering, and cloud technologies (AWS/Azure).
+- 👀 I’m passionate about all aspects of computer science, with a particular focus on software engineering, data engineering, and cloud computing. I’m excited by the opportunities these fields present for creating innovative and impactful solutions.
 - ⚽️ Outside of my professional interests, I enjoy playing football, cycling and climbing.
-- 🏃🏾‍♂️ I take my health and well-being seriously and frequently go to the gym/complete 20k/30k runs. Unfortunately, I never learned how to swim!
-- 🌱 I’m currently learning SAS and R but I am most confident with Python, SQL and Tableau at this moment in time.
-- 📫 How to reach me ... on Linkedin!
+- 🏃🏾‍♂️ I take my health and well-being seriously and frequently go to the gym. Unfortunately, I never learned how to swim!
+- 🌱 I’m currently learning HTML, CSS, and JavaScript. I am most confident with Python, SQL, Tableau, and AWS/Azure. I am also strengthening my understanding of computer science fundamentals.
+- 📫 How to reach me: Feel free to connect with me on LinkedIn!
 
 <!---
 kiitanolu44/kiitanolu44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
